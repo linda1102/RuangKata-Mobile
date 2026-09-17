@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:frontend/pages/artcilesPage.dart';
+import 'package:frontend/pages/articlesPage.dart';
 import 'package:frontend/pages/explorerPage.dart';
 import 'package:frontend/pages/homePage.dart';
 import 'package:frontend/pages/libraryPage.dart';
